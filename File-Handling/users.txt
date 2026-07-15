@@ -1,0 +1,3 @@
+Name : Alice | Age : 21 | Country : USA
+Name : Bob | Age : 19 | Country : Canada
+Name : Charlie | Age : 25 | Country : Germany
